@@ -1,0 +1,15 @@
+C:\Users\MIL83708\source\repos\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\MIL83708\source\repos\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\MIL83708\source\repos\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\MIL83708\source\repos\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\MIL83708\source\repos\Snake\Snake\obj\Debug\MainWindow.g.cs
+C:\Users\MIL83708\source\repos\Snake\Snake\obj\Debug\App.g.cs
+C:\Users\MIL83708\source\repos\Snake\Snake\obj\Debug\Snake_MarkupCompile.cache
+C:\Users\MIL83708\source\repos\Snake\Snake\obj\Debug\Snake_MarkupCompile.lref
+C:\Users\MIL83708\source\repos\Snake\Snake\obj\Debug\MainWindow.baml
+C:\Users\MIL83708\source\repos\Snake\Snake\obj\Debug\Snake.g.resources
+C:\Users\MIL83708\source\repos\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\MIL83708\source\repos\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\MIL83708\source\repos\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\MIL83708\source\repos\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\MIL83708\source\repos\Snake\Snake\obj\Debug\Snake.pdb

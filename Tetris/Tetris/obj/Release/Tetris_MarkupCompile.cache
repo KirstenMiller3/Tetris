@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\User\Source\Repos\Tetris\Tetris\Tetris\obj\Debug\
+C:\Users\User\Source\Repos\Tetris\Tetris\Tetris\obj\Release\
 Tetris
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\User\Source\Repos\Tetris\Tetris\Tetris\App.xaml
 11151548125
 
@@ -16,5 +16,5 @@ C:\Users\User\Source\Repos\Tetris\Tetris\Tetris\App.xaml
 13-1505183044
 MainWindow.xaml;
 
-False
+True
 

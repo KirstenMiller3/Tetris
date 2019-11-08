@@ -4,4 +4,8 @@
     <PlayerName>Kirsten</PlayerName>
     <Score>21</Score>
   </SnakeHighScore>
+  <SnakeHighScore>
+    <PlayerName>dickwad</PlayerName>
+    <Score>7</Score>
+  </SnakeHighScore>
 </ArrayOfSnakeHighScore>

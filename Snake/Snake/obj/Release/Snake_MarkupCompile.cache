@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\User\Source\Repos\Tetris\Snake\Snake\obj\Debug\
+C:\Users\User\Source\Repos\Tetris\Snake\Snake\obj\Release\
 Snake
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\User\Source\Repos\Tetris\Snake\Snake\App.xaml
 11151548125
 
